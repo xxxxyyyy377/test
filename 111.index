@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intimates Factory | Plus Size Lingerie OEM</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="logo">INTIMATES FACTORY</div>
+        <nav class="nav">
+            <a href="#collections">Collections</a>
+            <a href="#oem">OEM / ODM</a>
+            <a href="#about">About</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>COMFORT IS THE FOUNDATION.</h1>
+        <p>Plus-size lingerie wholesale & brand partnerships. Reliable factory support for your brand.</p>
+        <a href="#contact" class="btn">Start a conversation</a>
+    </section>
+
+    <section class="content" id="collections">
+        <h2>Our Collections</h2>
+        <p>We develop plus-size intimates, comfortable underwear and sleepwear for global brands.</p>
+    </section>
+
+    <section class="content" id="oem">
+        <h2>OEM & ODM Service</h2>
+        <p>Custom fabric, custom fit, private label, low MOQ available.</p>
+    </section>
+
+    <footer class="footer" id="contact">
+        <p>© INTIMATES FACTORY · Wholesale & OEM/ODM</p>
+        <p>Email: contact@example.com</p>
+    </footer>
+</body>
+</html>
